@@ -1,0 +1,7 @@
+your-electron-app/
+│
+├ ── package.json
+├ ── main.js        # 主进程文件
+└── src/           # 前端文件
+    ├── index.html # 登录页面
+    └── renderer.js # 渲染进程脚本
